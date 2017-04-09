@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Lynn Location",
+    "street": "333 Walnut St",
+    "city": "Lynn",
+    "state": "MA",
+    "zip": "01902",
+    "phone": "7227895183"
+  },
+  
+  {
+    "id": 2,
+    "name": "Amesbury Location",
+    "street": "54 Macy St",
+    "city": "Amsebury",
+    "state": "MA",
+    "zip": "01913",
+    "phone": "7227895183"
+  },
+  
+  {
+    "id": 3,
+    "name": "Boston Location",
+    "street": "77 Mass Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "01912",
+    "phone": "7227895183"
+  }
+]
